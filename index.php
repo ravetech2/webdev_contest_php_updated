@@ -1,9 +1,11 @@
 <?php include('includes/header.php'); ?>
 <h1>Welcome to Our Act for Earth</h1>
-<div class="text-center">
+<div class="container my-4">
+  <div class="ratio ratio-16x9">
   <video class="rounded shadow" style="max-width: 200px; width: 100%;" controls>
     <source src="assets/climate_video.mp4" type="video/mp4">
   </video>
+  </div>
 </div>
 
   <h2>🌎 Act for Earth</h2>
